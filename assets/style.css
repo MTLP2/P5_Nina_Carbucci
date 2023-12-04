@@ -362,3 +362,8 @@ input[type="submit"] {
 	height: 600px;
 }
 
+.lightboxImage{
+	height: 600px;
+    width: 465px;
+    object-fit: contain;
+}
